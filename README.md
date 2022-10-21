@@ -1,11 +1,9 @@
-# Product Manager
-## One-to-Many and Many-to-Many Spring CRUD App
+# Job Search Helper
+## Let's get to work!
 
 ### Key Features:
-- Login and registration validations
-- Create, Read, Update and Delete Products and Categories
-- Bootstrap Bootswatch UI
-- Imported Google fonts, images and CSS files
+- Social Public Job Board
+- Create, track and update job applications
+- Give kudos on public job postings and track your own Kudos received
+- Generate cover letters with just a few inputs
 - Connected to SQL database
-
-<img src="demo_pm.gif" alt="Demo">
