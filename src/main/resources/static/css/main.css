@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+body {
+    background-color: black;
+    padding-top: 70px;
+
+/*background-image: url("https://cdn.dribbble.com/users/269899/screenshots/15662834/media/04e8305a7bd120766bd20b1346f99c36.png?compress=1&resize=1600x1200&vertical=top");*/
+    /*background-repeat: no-repeat;*/
+    /*background-position: 50% 10%;*/
+    /*font-family: 'Poppins', sans-serif;*/
+}
+
+.title {
+    font-family: 'Fredoka One', cursive;
+
+    /*font-family: 'Silkscreen', cursive;*/
+}
+
+.show {
+    font-family: 'Fredoka One', cursive;
+
+    /*font-family: 'Indie Flower', cursive;*/
+}
+
+ul {
+    margin:0;
+    padding:0;
+    text-align: center;
+    list-style:none;
+}
+
+ul li {
+    padding: 2px 5px;
+}
+
+.inlinerow {
+    display: inline-block;
+    /*float: left;*/
+}
+
+.letter {
+    font-family: "Times New Roman", serif;
+}
+
+.tall {
+    height: 7rem;
+}
