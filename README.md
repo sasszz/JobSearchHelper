@@ -7,3 +7,6 @@
 - Give kudos on public job postings and track your own Kudos received
 - Generate cover letters with just a few inputs
 - Connected to SQL database
+
+### Demo:
+<img src="JSH4.gif" alt="Demo Gif">
